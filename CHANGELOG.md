@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-20)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,7 +34,8 @@ This release closes the following issue:
 
 <details>
 
--   [`7eb69d4`](https://github.com/stdlib-js/stdlib/commit/7eb69d4e7b7b998a98772fa118c16707a0160e92) - **feat:** add C implementation for `stats/base/dists/logistic/median` [(#4031)](https://github.com/stdlib-js/stdlib/pull/4031) _(by JoyBoy)_
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`7eb69d4`](https://github.com/stdlib-js/stdlib/commit/7eb69d4e7b7b998a98772fa118c16707a0160e92) - **feat:** add C implementation for `stats/base/dists/logistic/median` [(#4031)](https://github.com/stdlib-js/stdlib/pull/4031) _(by Prashant Kumar Yadav)_
 
 </details>
 
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   JoyBoy
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
